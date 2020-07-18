@@ -75,6 +75,6 @@
     "typescript": "~3.8.3"
   },
   "optionalDependencies": {
-    "clang-tools-prebuilt": "^0.1.4"
+    "clang-tools-prebuilt": "git://github.com/killerbobjr/clang-tools-prebuilt.git"
   }
 }
